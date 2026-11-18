@@ -1,0 +1,7 @@
+node_modules
+dist
+test-results
+playwright-report
+.vercel
+tests/e2e/screenshots
+.DS_Store
