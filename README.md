@@ -6,6 +6,8 @@ Flick speed sets power, flick angle sets direction and sidespin, and the
 stroke style (auto, loop, chop) sets topspin or backspin. The ball obeys
 drag, Magnus lift and spin-dependent bounces on a fixed 240 Hz Rapier step.
 
+Play it: https://lumen-loop-ten.vercel.app
+
 ## Run
 
 ```sh
